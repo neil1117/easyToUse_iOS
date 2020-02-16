@@ -141,13 +141,6 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/UIColor+Extension.swift",
-      "line": 47,
-      "symbol": "UIColor.init(HEX:alpha:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
       "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/ViewController.swift",
       "line": 11,
       "symbol": "ViewController",

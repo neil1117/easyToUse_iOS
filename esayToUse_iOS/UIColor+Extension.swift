@@ -44,6 +44,12 @@ extension UIColor {
         )
     }
     
+    /**
+     利用 16 進位 GRBA 設定顏色，RGB為 16 進位字串
+     
+     - Parameter HEX: 16 進位字串
+     - Parameter alpha: 透明度，不設定為 1 (不透明)
+     */
     convenience init(HEX: String, alpha: CGFloat = 1.0) {
         
         var HEXStr = HEX
