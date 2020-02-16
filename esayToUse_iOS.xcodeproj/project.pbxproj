@@ -17,6 +17,7 @@
 		C4AB9B5323F9355300081A6D /* Stirng+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AB9B5023F9355300081A6D /* Stirng+Extension.swift */; };
 		C4AB9B5423F9355300081A6D /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AB9B5123F9355300081A6D /* UIColor+Extension.swift */; };
 		C4AB9B5523F9355300081A6D /* DebugHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AB9B5223F9355300081A6D /* DebugHelper.swift */; };
+		C4AB9B5723F936EA00081A6D /* LocalizationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AB9B5623F936EA00081A6D /* LocalizationHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C4AB9B5023F9355300081A6D /* Stirng+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stirng+Extension.swift"; sourceTree = "<group>"; };
 		C4AB9B5123F9355300081A6D /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 		C4AB9B5223F9355300081A6D /* DebugHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugHelper.swift; sourceTree = "<group>"; };
+		C4AB9B5623F936EA00081A6D /* LocalizationHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,12 +71,13 @@
 				C4AB9B3E23F932A600081A6D /* ViewController.swift */,
 				C4AB9B4023F932A600081A6D /* Main.storyboard */,
 				C4AB9B4323F932A700081A6D /* Assets.xcassets */,
+				C4AB9B4523F932A700081A6D /* LaunchScreen.storyboard */,
+				C4AB9B4823F932A700081A6D /* Info.plist */,
 				C4AB9B4E23F9353C00081A6D /* NSAttributedString+Extension.swift */,
 				C4AB9B5223F9355300081A6D /* DebugHelper.swift */,
 				C4AB9B5023F9355300081A6D /* Stirng+Extension.swift */,
 				C4AB9B5123F9355300081A6D /* UIColor+Extension.swift */,
-				C4AB9B4523F932A700081A6D /* LaunchScreen.storyboard */,
-				C4AB9B4823F932A700081A6D /* Info.plist */,
+				C4AB9B5623F936EA00081A6D /* LocalizationHelper.swift */,
 			);
 			path = esayToUse_iOS;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				C4AB9B3F23F932A600081A6D /* ViewController.swift in Sources */,
 				C4AB9B4F23F9353C00081A6D /* NSAttributedString+Extension.swift in Sources */,
 				C4AB9B5423F9355300081A6D /* UIColor+Extension.swift in Sources */,
+				C4AB9B5723F936EA00081A6D /* LocalizationHelper.swift in Sources */,
 				C4AB9B3B23F932A600081A6D /* AppDelegate.swift in Sources */,
 				C4AB9B3D23F932A600081A6D /* SceneDelegate.swift in Sources */,
 				C4AB9B5523F9355300081A6D /* DebugHelper.swift in Sources */,
