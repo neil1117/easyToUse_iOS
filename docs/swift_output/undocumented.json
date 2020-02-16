@@ -1,0 +1,166 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.application(_:configurationForConnecting:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/AppDelegate.swift",
+      "line": 29,
+      "symbol": "AppDelegate.application(_:didDiscardSceneSessions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 11,
+      "symbol": "Debuger",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 13,
+      "symbol": "appName",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 16,
+      "symbol": "logPath",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 22,
+      "symbol": "DebugHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 24,
+      "symbol": "DebugHelper.createDebugLog()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/DebugHelper.swift",
+      "line": 54,
+      "symbol": "String.writeToDebugLog(file:function:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 11,
+      "symbol": "SceneDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 13,
+      "symbol": "SceneDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 16,
+      "symbol": "SceneDelegate.scene(_:willConnectTo:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 23,
+      "symbol": "SceneDelegate.sceneDidDisconnect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 30,
+      "symbol": "SceneDelegate.sceneDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 35,
+      "symbol": "SceneDelegate.sceneWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 40,
+      "symbol": "SceneDelegate.sceneWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/SceneDelegate.swift",
+      "line": 45,
+      "symbol": "SceneDelegate.sceneDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/Stirng+Extension.swift",
+      "line": 106,
+      "symbol": "String.ranges(of:options:locale:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/Stirng+Extension.swift",
+      "line": 114,
+      "symbol": "String.nsRanges(of:options:locale:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/UIColor+Extension.swift",
+      "line": 47,
+      "symbol": "UIColor.init(HEX:alpha:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jenche/Desktop/easyToUse_iOS/esayToUse_iOS/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/jenche/Desktop/easyToUse_iOS"
+}
