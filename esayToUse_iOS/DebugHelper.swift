@@ -26,7 +26,7 @@ class DebugHelper {
         #if DEBUG || STAGE
         let date = Date()
         let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy/MM/dd HH:mm:ss.ssssss"
+        formatter.dateFormat = "yyyy/MM/dd HH:mm:ss.SSSSSS"
         var dateString = ""
         let fileManager = FileManager.default
         if fileManager.fileExists(atPath: logPath) {
@@ -60,7 +60,7 @@ extension String {
         
         let date = Date()
         let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy/MM/dd HH:mm:ss.ssssss"
+        formatter.dateFormat = "yyyy/MM/dd HH:mm:ss.SSSSSS"
         let dateStr = formatter.string(from: date)
         let allString = dateStr + " " + self + "\n"
         
